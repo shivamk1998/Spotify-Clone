@@ -3,7 +3,7 @@ export const initialState = {
   playlist: [],
   playing: false,
   item: null,
-  tokrn:"BQBtBZ-nIpWjyLJxQAL-khgg1e8vo4xvfJj2NWRmGxiu-YVYozKSOcelOkGYfbclkOrirnx7A2-M3a6PSUetoZHc2PmwEvYPW2tks5hIVczldIZw5QqSfO_TJvGhEdUXw1ljSjnhNSqulFYziBxH9SPch0z4dv0oxgmf8bRahKWcjY-UiIZbKe_0PrCNWFyBTu9CpNG03H8OS820K1E8"
+  // token:"BQBtBZ-nIpWjyLJxQAL-khgg1e8vo4xvfJj2NWRmGxiu-YVYozKSOcelOkGYfbclkOrirnx7A2-M3a6PSUetoZHc2PmwEvYPW2tks5hIVczldIZw5QqSfO_TJvGhEdUXw1ljSjnhNSqulFYziBxH9SPch0z4dv0oxgmf8bRahKWcjY-UiIZbKe_0PrCNWFyBTu9CpNG03H8OS820K1E8"
 };
 
 const reducer = (state, action) => {
